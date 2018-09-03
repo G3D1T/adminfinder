@@ -25,7 +25,7 @@ python breacher -u example.com --path /data
 
 Code by S0MD3V and recoded by G3D1T
 
-print """\033[1;34m
+<font face="verdana" color="red"><font size="6">
 ++++++++++++  ++++++++++ ++++++++    ++ ++++++++
 ++++++++++++  ++         ++     ++   ++    ++
 ++            ++         ++      ++  ++    ++
@@ -33,5 +33,4 @@ print """\033[1;34m
 ++          + ++         ++       ++ ++    ++
 ++          + ++         ++      ++  ++    ++
 +++++++++++++ ++++++++++ +++++++++   ++    ++
-
-                          \033[37mMade with \033[91m<3\033[37m By G3D1T\033[1;m"""
+</font></center>
