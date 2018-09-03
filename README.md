@@ -25,7 +25,6 @@ python breacher -u example.com --path /data
 
 Code by S0MD3V and recoded by G3D1T
 
-<font face="verdana" color="red"><font size="6">
 ++++++++++++  ++++++++++ ++++++++    ++ ++++++++
 ++++++++++++  ++         ++     ++   ++    ++
 ++            ++         ++      ++  ++    ++
@@ -33,4 +32,3 @@ Code by S0MD3V and recoded by G3D1T
 ++          + ++         ++       ++ ++    ++
 ++          + ++         ++      ++  ++    ++
 +++++++++++++ ++++++++++ +++++++++   ++    ++
-</font></center>
